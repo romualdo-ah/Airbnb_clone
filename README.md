@@ -3,11 +3,11 @@ It is hosted on firebase.
 
 And you can view live demo by clicking <a href="https://airbnb-cloness.web.app/" target="_blank">https://airbnb-cloness.web.app/</a>.
 
-#Calendar
+<h2>Calendar</h2>
 ![](images/CaptureCalendar.PNG)
 
-#Home Page
+<h2>Home Page</h2>
 ![](images/Capture.PNG)
 
-#Search Results
+<h2>Search Results</h2>
 ![](images/CaptureSearch.PNG)
