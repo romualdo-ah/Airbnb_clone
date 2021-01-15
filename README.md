@@ -1,4 +1,4 @@
 Airbnb_clone is a simple web application created with ⚛ React framework. 
 It is hosted on firebase.
 
-And you can view live demo by clicking <a target="_blank" href="https://airbnb-cloness.web.app/">HERE</a>
+And you can view live demo by clicking <a href="https://airbnb-cloness.web.app/" target="_blank">HERE</a>
